@@ -1,0 +1,1 @@
+// Aquí debes pegar el código completo del componente TiendaHormigas desde el canvas
